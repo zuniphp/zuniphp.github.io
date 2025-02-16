@@ -26,7 +26,7 @@
 
 ```
 
-  ### Configuracao no Model
+### Configuracao no Model
 
 ```php
 <?php
@@ -60,7 +60,7 @@ class Model_Exemplo extends Zuni_Model
 
 ```
 
-### Configuracao no Controle ###
+### Configuracao no Controle
 ```php
 <?php
 
@@ -105,7 +105,7 @@ class Controller_Exemplo extends Zuni_Controller
 
 ```
 
-  ### Configuracao na View ###
+### Configuracao na View ###
 
 ```php
   <!DOCTYPE html>
